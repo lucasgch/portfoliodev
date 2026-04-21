@@ -1,7 +1,7 @@
 # Portfolio - Lucas de Godoy Chicarelli
 
 <p align="center">
-  <a href="https://lgjor.github.io/portfoliodev/" target="_blank">
+  <a href="https://lucasgch.github.io/portfoliodev/" target="_blank">
     <img src=".github/preview.png" width="100%" alt="Portfolio Dev">
   </a>
 </p>
@@ -222,7 +222,7 @@ O HTML inicial deste projeto foi desenvolvido para fins educativos no Lab da [Di
 ## 👨‍💻 Autor
 
 **Lucas de Godoy Chicarelli**
-- GitHub: [@lgjor](https://github.com/lgjor)
+- GitHub: [@lgjor](https://github.com/lucasgch)
 - LinkedIn: [lucasgch](https://www.linkedin.com/in/lucasgch/)
 
 ---
